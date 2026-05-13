@@ -1,4 +1,4 @@
-# 
+# vip MEV sniper bot | degen-coin-scanning + bundle-transactions offers the most advanced MEV sniper bot, with degen-coin-scanning and bundle-transactions. Ideal for professional
 
 
 
